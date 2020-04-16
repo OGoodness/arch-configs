@@ -11,4 +11,4 @@
 - [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
 
 ## Where do these go?
-These files belong in the home directory.
+These files belong in the home directory. `~`

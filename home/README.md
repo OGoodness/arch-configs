@@ -5,4 +5,4 @@ Config files that do not follow [XDG Specifications](https://specifications.free
 Use an image named ".face" placed in home to set user account pictures for the login manager.
 
 ## Where do these go?
-These files belong in the home directory.
+These files belong in the home directory. `~`
