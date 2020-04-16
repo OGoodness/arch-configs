@@ -1,0 +1,13 @@
+source ~/.config/polybar/icon-color.sh
+nitrogen --restore &
+xbindkeys --poll-rc &
+(sleep 3 && compton &)
+#mopidy &
+thunar --daemon & 
+polybar openbox -c ~/.config/polybar/config &
+# plank & 
+# clipit &
+lxpolkit &
+nm-applet &
+# xautolock -time 10 -locker slock
+setxkbmap -option keypad:pointerkeys &

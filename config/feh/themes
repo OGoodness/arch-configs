@@ -1,0 +1,6 @@
+feh --scale-down \
+	--sort name \
+	--no-menus \
+	--conversion-timeout 1 \
+	--geometry 720x406 \
+	--title "[%u/%l] %n (%wx%h)"
